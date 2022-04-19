@@ -25,6 +25,7 @@ function SetUpFormis(){
     NextFormi();
     d3.select("#Layer_8")
         .on("click", function(){
+            DayChange(true);
             NextFormi();
             });
     console.log(days);
