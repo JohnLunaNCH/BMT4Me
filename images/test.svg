@@ -1,0 +1,540 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Grid_On_Grid_Color-2);
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        fill: url(#Grid_On_Grid_Color);
+      }
+
+      .cls-6 {
+        fill: #4caecf;
+      }
+
+      .cls-3, .cls-4 {
+        opacity: .4;
+      }
+
+      .cls-7 {
+        fill: #f58220;
+      }
+
+      .cls-8 {
+        fill: #fff4db;
+        stroke: #231f20;
+        stroke-width: .6px;
+      }
+
+      .cls-9 {
+        fill: #ffb5bf;
+      }
+
+      .cls-10 {
+        fill: #e6e6e6;
+      }
+
+      .cls-11 {
+        fill: #a6664c;
+      }
+
+      .cls-12 {
+        fill: #5f8fe6;
+      }
+
+      .cls-4 {
+        mix-blend-mode: soft-light;
+      }
+
+      .cls-13 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 14px;
+      }
+
+      .cls-13, .cls-14 {
+        fill: none;
+      }
+
+      .cls-15 {
+        fill: #ffd65c;
+      }
+
+      .cls-16 {
+        fill: #74a575;
+      }
+
+      .cls-17 {
+        fill: #b6aa00;
+      }
+
+      .cls-18 {
+        fill: #ff2e4a;
+      }
+
+      .cls-19 {
+        fill: #595959;
+      }
+
+      .cls-20 {
+        fill: #af758d;
+      }
+    </style>
+    <symbol id="arm_curved" viewBox="0 0 200.5 107">
+      <path d="M103.2,107c-9.3,0-18.7-1.3-28.2-4.3-25.6-8.2-46.7-28.3-61.1-58.1C3.3,22.6,.1,3,0,2.2L13.8,0c.1,.7,12.3,72.4,65.5,89.4,53.5,17.1,111.4-32.7,112-33.2l9.2,10.5c-2.2,1.9-46.7,40.3-97.3,40.3Z"/>
+    </symbol>
+    <symbol id="eye_closed" viewBox="0 0 46.7 34.8">
+      <path d="M1.4,34.8C-3.3,19.8,3.9,3.4,20.3,.6c15.3-3.1,26,7,26.4,22.1,0,1.7,0,3.5-.3,5.2-.9-3.3-2.1-6.5-3.5-9.4-1.4-2.9-3.2-5.5-5.3-7.5-4.2-4-9.9-4.8-15.9-3.6C7.9,9.6,2.9,22.4,1.4,34.8h0Z"/>
+    </symbol>
+    <symbol id="eye_heart" viewBox="0 0 70.4 61.6">
+      <path d="M67.1,3.8c-15.4-13.6-31.9,13.7-31.9,13.7,0,0-16.4-27.3-31.9-13.7-16.1,14.2,31.9,57.8,31.9,57.8,0,0,48-43.6,31.9-57.8Z"/>
+    </symbol>
+    <symbol id="eye_open" viewBox="0 0 46 64.9">
+      <ellipse cx="23" cy="32.4" rx="23" ry="32.4"/>
+    </symbol>
+    <symbol id="formi_body" viewBox="0 0 508.4 707.5">
+      <g>
+        <rect x="116.1" y="598.5" width="14" height="108.9"/>
+        <rect x="288" y="610.2" width="14" height="97.3"/>
+        <rect class="cls-10" x="0" y="45.2" width="452.1" height="574.3" rx="200.5" ry="200.5"/>
+        <rect class="cls-2" x="10" y="42.2" width="452.1" height="574.3" rx="200.5" ry="200.5"/>
+        <ellipse class="cls-10" cx="222.2" cy="232.3" rx="220.9" ry="206.4"/>
+        <ellipse class="cls-2" cx="259.8" cy="232.3" rx="248.5" ry="232.3"/>
+      </g>
+    </symbol>
+    <symbol id="hair_neutral" viewBox="0 0 228.9 229">
+      <g>
+        <polygon class="cls-16" points="146.3 88.5 73.8 71.9 51.6 0 0 55.6 72.6 72.1 94.8 144.1 146.3 88.5"/>
+        <path class="cls-13" d="M227.1,222.3s-86.2-23.2-60.9-97.5S114.6,10.6,57.3,92.7"/>
+      </g>
+    </symbol>
+    <symbol id="hand_thumbsUp" viewBox="0 0 86.5 107.6">
+      <g>
+        <ellipse id="circle" class="cls-16" cx="43.7" cy="70" rx="37.2" ry="43.1" transform="translate(-34.3 97.2) rotate(-77.2)"/>
+        <ellipse id="circle-2" data-name="circle" class="cls-16" cx="17.3" cy="39.8" rx="40.6" ry="15.2" transform="translate(-25.3 47.9) rotate(-77.2)"/>
+      </g>
+    </symbol>
+    <pattern id="Grid_On_Grid_Color" data-name="Grid On Grid Color" x="0" y="0" width="62.7" height="62.7" patternTransform="translate(1490.6 268.9) rotate(90.9)" patternUnits="userSpaceOnUse" viewBox="0 0 62.7 62.7">
+      <g>
+        <rect class="cls-14" width="62.7" height="62.7"/>
+        <polygon class="cls-8" points="62.7 68 62.7 62.7 68 62.7 78.4 73.2 78.4 78.4 73.2 78.4 62.7 68"/>
+        <g>
+          <polygon class="cls-8" points="0 68 0 62.7 5.2 62.7 15.7 73.2 15.7 78.4 10.5 78.4 0 68"/>
+          <polygon class="cls-8" points="31.4 68 31.4 62.7 36.6 62.7 47.1 73.2 47.1 78.4 41.8 78.4 31.4 68"/>
+          <polygon class="cls-8" points="20.9 78.4 15.7 78.4 15.7 73.2 26.1 62.7 31.4 62.7 31.4 68 20.9 78.4"/>
+          <polygon class="cls-8" points="52.3 78.4 47.1 78.4 47.1 73.2 57.5 62.7 62.7 62.7 62.7 68 52.3 78.4"/>
+          <polygon class="cls-20" points="15.7 52.3 26.1 62.7 15.7 73.2 5.2 62.7 15.7 52.3"/>
+          <polygon class="cls-11" points="47.1 52.3 57.5 62.7 47.1 73.2 36.6 62.7 47.1 52.3"/>
+        </g>
+        <polygon class="cls-8" points="-10.5 78.4 -15.7 78.4 -15.7 73.2 -5.2 62.7 0 62.7 0 68 -10.5 78.4"/>
+        <g>
+          <polygon class="cls-8" points="62.7 36.6 62.7 31.4 68 31.4 78.4 41.8 78.4 47.1 73.2 47.1 62.7 36.6"/>
+          <polygon class="cls-8" points="62.7 5.2 62.7 0 68 0 78.4 10.5 78.4 15.7 73.2 15.7 62.7 5.2"/>
+          <polygon class="cls-8" points="73.2 47.1 78.4 47.1 78.4 52.3 68 62.7 62.7 62.7 62.7 57.5 73.2 47.1"/>
+          <polygon class="cls-8" points="73.2 15.7 78.4 15.7 78.4 20.9 68 31.4 62.7 31.4 62.7 26.1 73.2 15.7"/>
+          <polygon class="cls-6" points="62.7 36.6 73.2 47.1 62.7 57.5 52.3 47.1 62.7 36.6"/>
+          <polygon class="cls-17" points="62.7 5.2 73.2 15.7 62.7 26.1 52.3 15.7 62.7 5.2"/>
+        </g>
+        <g>
+          <polygon class="cls-8" points="0 36.6 0 31.4 5.2 31.4 15.7 41.8 15.7 47.1 10.5 47.1 0 36.6"/>
+          <polygon class="cls-8" points="31.4 57.5 31.4 62.7 26.1 62.7 15.7 52.3 15.7 47.1 20.9 47.1 31.4 57.5"/>
+          <polygon class="cls-8" points="31.4 36.6 31.4 31.4 36.6 31.4 47.1 41.8 47.1 47.1 41.8 47.1 31.4 36.6"/>
+          <polygon class="cls-8" points="62.7 57.5 62.7 62.7 57.5 62.7 47.1 52.3 47.1 47.1 52.3 47.1 62.7 57.5"/>
+          <polygon class="cls-8" points="0 5.2 0 0 5.2 0 15.7 10.5 15.7 15.7 10.5 15.7 0 5.2"/>
+          <polygon class="cls-8" points="31.4 26.1 31.4 31.4 26.1 31.4 15.7 20.9 15.7 15.7 20.9 15.7 31.4 26.1"/>
+          <polygon class="cls-8" points="31.4 5.2 31.4 0 36.6 0 47.1 10.5 47.1 15.7 41.8 15.7 31.4 5.2"/>
+          <polygon class="cls-8" points="62.7 26.1 62.7 31.4 57.5 31.4 47.1 20.9 47.1 15.7 52.3 15.7 62.7 26.1"/>
+          <polygon class="cls-8" points="10.5 47.1 15.7 47.1 15.7 52.3 5.2 62.7 0 62.7 0 57.5 10.5 47.1"/>
+          <polygon class="cls-8" points="41.8 47.1 47.1 47.1 47.1 52.3 36.6 62.7 31.4 62.7 31.4 57.5 41.8 47.1"/>
+          <polygon class="cls-8" points="20.9 47.1 15.7 47.1 15.7 41.8 26.1 31.4 31.4 31.4 31.4 36.6 20.9 47.1"/>
+          <polygon class="cls-8" points="52.3 47.1 47.1 47.1 47.1 41.8 57.5 31.4 62.7 31.4 62.7 36.6 52.3 47.1"/>
+          <polygon class="cls-8" points="10.5 15.7 15.7 15.7 15.7 20.9 5.2 31.4 0 31.4 0 26.1 10.5 15.7"/>
+          <polygon class="cls-8" points="41.8 15.7 47.1 15.7 47.1 20.9 36.6 31.4 31.4 31.4 31.4 26.1 41.8 15.7"/>
+          <polygon class="cls-8" points="20.9 15.7 15.7 15.7 15.7 10.5 26.1 0 31.4 0 31.4 5.2 20.9 15.7"/>
+          <polygon class="cls-8" points="52.3 15.7 47.1 15.7 47.1 10.5 57.5 0 62.7 0 62.7 5.2 52.3 15.7"/>
+          <polygon class="cls-6" points="0 36.6 10.5 47.1 0 57.5 -10.5 47.1 0 36.6"/>
+          <polygon class="cls-15" points="31.4 36.6 41.8 47.1 31.4 57.5 20.9 47.1 31.4 36.6"/>
+          <polygon class="cls-6" points="62.7 36.6 73.2 47.1 62.7 57.5 52.3 47.1 62.7 36.6"/>
+          <polygon class="cls-7" points="15.7 20.9 26.1 31.4 15.7 41.8 5.2 31.4 15.7 20.9"/>
+          <polygon class="cls-7" points="47.1 20.9 57.5 31.4 47.1 41.8 36.6 31.4 47.1 20.9"/>
+          <polygon class="cls-20" points="15.7 52.3 26.1 62.7 15.7 73.2 5.2 62.7 15.7 52.3"/>
+          <polygon class="cls-11" points="47.1 52.3 57.5 62.7 47.1 73.2 36.6 62.7 47.1 52.3"/>
+          <polygon class="cls-17" points="0 5.2 10.5 15.7 0 26.1 -10.5 15.7 0 5.2"/>
+          <polygon class="cls-15" points="31.4 5.2 41.8 15.7 31.4 26.1 20.9 15.7 31.4 5.2"/>
+          <polygon class="cls-17" points="62.7 5.2 73.2 15.7 62.7 26.1 52.3 15.7 62.7 5.2"/>
+          <polygon class="cls-20" points="15.7 -10.5 26.1 0 15.7 10.5 5.2 0 15.7 -10.5"/>
+          <polygon class="cls-11" points="47.1 -10.5 57.5 0 47.1 10.5 36.6 0 47.1 -10.5"/>
+        </g>
+        <g>
+          <polygon class="cls-8" points="0 57.5 0 62.7 -5.2 62.7 -15.7 52.3 -15.7 47.1 -10.5 47.1 0 57.5"/>
+          <polygon class="cls-8" points="0 26.1 0 31.4 -5.2 31.4 -15.7 20.9 -15.7 15.7 -10.5 15.7 0 26.1"/>
+          <polygon class="cls-8" points="-10.5 47.1 -15.7 47.1 -15.7 41.8 -5.2 31.4 0 31.4 0 36.6 -10.5 47.1"/>
+          <polygon class="cls-8" points="-10.5 15.7 -15.7 15.7 -15.7 10.5 -5.2 0 0 0 0 5.2 -10.5 15.7"/>
+          <polygon class="cls-6" points="0 36.6 10.5 47.1 0 57.5 -10.5 47.1 0 36.6"/>
+          <polygon class="cls-17" points="0 5.2 10.5 15.7 0 26.1 -10.5 15.7 0 5.2"/>
+        </g>
+        <polygon class="cls-8" points="73.2 -15.7 78.4 -15.7 78.4 -10.5 68 0 62.7 0 62.7 -5.2 73.2 -15.7"/>
+        <g>
+          <polygon class="cls-8" points="31.4 -5.2 31.4 0 26.1 0 15.7 -10.5 15.7 -15.7 20.9 -15.7 31.4 -5.2"/>
+          <polygon class="cls-8" points="62.7 -5.2 62.7 0 57.5 0 47.1 -10.5 47.1 -15.7 52.3 -15.7 62.7 -5.2"/>
+          <polygon class="cls-8" points="10.5 -15.7 15.7 -15.7 15.7 -10.5 5.2 0 0 0 0 -5.2 10.5 -15.7"/>
+          <polygon class="cls-8" points="41.8 -15.7 47.1 -15.7 47.1 -10.5 36.6 0 31.4 0 31.4 -5.2 41.8 -15.7"/>
+          <polygon class="cls-20" points="15.7 -10.5 26.1 0 15.7 10.5 5.2 0 15.7 -10.5"/>
+          <polygon class="cls-11" points="47.1 -10.5 57.5 0 47.1 10.5 36.6 0 47.1 -10.5"/>
+        </g>
+        <polygon class="cls-8" points="0 -5.2 0 0 -5.2 0 -15.7 -10.5 -15.7 -15.7 -10.5 -15.7 0 -5.2"/>
+      </g>
+    </pattern>
+    <symbol id="hat_party" viewBox="0 0 175 259.7">
+      <polygon class="cls-5" points="48.3 0 0 259.7 175 236.4 48.3 0"/>
+    </symbol>
+    <symbol id="heart" viewBox="0 0 70.4 61.6">
+      <path class="cls-3" d="M67.1,3.8c-15.4-13.6-31.9,13.7-31.9,13.7,0,0-16.4-27.3-31.9-13.7-16.1,14.2,31.9,57.8,31.9,57.8,0,0,48-43.6,31.9-57.8Z"/>
+    </symbol>
+    <symbol id="mouth_grin" viewBox="0 0 91.4 50">
+      <path d="M0,0C10.9,15.5,26.5,26.8,43.5,34.8c15.3,7.1,31.3,11.1,47.9,14.7-10.3,1-20.7,.2-30.9-1.9-17-3.7-33.5-11.7-45.8-24.2C8.2,16.7,2.6,8.9,0,0H0Z"/>
+    </symbol>
+    <symbol id="mouth_openSmile" viewBox="0 0 169.1 87.1">
+      <g>
+        <path class="cls-2" d="M168.7,31.6L3.8,3.2s31,88.4,118.3,80c38.8-3.8,46.6-51.6,46.6-51.6Z"/>
+        <path d="M168.5,31.9C120,24.2,51,13.3,3.4,5.7l2.8-3.3c4.3,10.7,10.2,21.1,17,30.5,24.1,33.3,60.5,51.5,101.7,46.9,23.2-3,37.2-25.6,43.1-46.5l.2-.9v-.4l.2-.2s0-.1,0,0c0,0,0,0,0,.1h0Zm.6-.4c.1,.2,0,.5,0,.7v.4l-.2,.9c-3.1,18.5-12,37.4-28.8,47.1-6.5,3.8-14.1,5.6-21.6,6l-3.7,.3c-32.4,1.7-60.3-10.3-82.5-33.8C17.9,37.9,6.8,19.8,0,0,49.8,9,118.7,22.1,169,31.4h0Z"/>
+      </g>
+    </symbol>
+    <symbol id="mouth_smile" viewBox="0 0 171.6 32.4">
+      <path d="M0,0C30.4,28.8,114.8,31.8,152.3,16c7-2.9,13.9-6.5,19.3-11.8-4.4,6.5-11.1,11.1-17.8,15C115.7,40.8,27.8,37,0,0H0Z"/>
+    </symbol>
+    <symbol id="nose" viewBox="0 0 179.1 126.9">
+      <ellipse class="cls-9" cx="89.6" cy="63.4" rx="89.6" ry="63.4"/>
+    </symbol>
+    <symbol id="note" viewBox="0 0 142.9 218.5">
+      <path class="cls-3" d="M136.1,38C125.4,18.1,105.5,1.9,82.3,0c.2,5.8,0,137.5,0,143.9C57.1,110.5-1.5,130.6,0,173.3c-.9,60.3,93.8,60.3,92.9,0,0-3,0-145.2,0-148.1,41.4,10,56,56.6,36.8,92.5,11.7-23.8,19.5-54.9,6.5-79.7Z"/>
+    </symbol>
+    <symbol id="star" viewBox="0 0 1181.3 1124.1">
+      <polygon id="star-2" data-name="star" class="cls-4" points="954.5 1124.1 589.8 931.5 224.4 1122.8 294.8 716.5 0 428.1 408.2 369.5 591.4 0 773.3 370.1 1181.3 430.1 885.5 717.5 954.5 1124.1"/>
+    </symbol>
+    <pattern id="Grid_On_Grid_Color-2" data-name="Grid On Grid Color" patternTransform="translate(2023.4 2392.8)" xlink:href="#Grid_On_Grid_Color"/>
+  </defs>
+  <g id="Layer_8" data-name="Layer 8">
+    <rect class="cls-12" x="-1.5" y="6.2" width="1920" height="1080"/>
+    <use width="1181.3" height="1124.1" transform="translate(-324.5 145.6) rotate(-14.6)" xlink:href="#star"/>
+    <use width="1181.3" height="1124.1" transform="translate(1560.7 102.9) rotate(15.1) scale(.2)" xlink:href="#star"/>
+    <g id="Formi_Day01">
+      <rect x="662.7" y="761.5" width="14" height="248.5"/>
+      <use width="228.9" height="229" transform="translate(337.5 99.1) rotate(30.5)" xlink:href="#hair_neutral"/>
+      <circle id="circle-3" data-name="circle" class="cls-16" cx="634.5" cy="1017.4" r="45.3"/>
+      <use width="508.4" height="707.5" transform="translate(215.2 372.5)" xlink:href="#formi_body"/>
+      <ellipse cx="373.6" cy="556.1" rx="23" ry="32.4"/>
+      <ellipse cx="637.9" cy="553.5" rx="23" ry="32.4"/>
+      <ellipse class="cls-9" cx="525.4" cy="627" rx="89.6" ry="63.4"/>
+      <ellipse cx="647.2" cy="475.4" rx="15.2" ry="42.7" transform="translate(24.6 982.7) rotate(-75.5)"/>
+      <ellipse cx="355.9" cy="477.6" rx="42.7" ry="15.2" transform="translate(-106.1 101.6) rotate(-14.2)"/>
+      <rect x="229.2" y="763" width="14" height="248.5"/>
+      <circle class="cls-16" cx="204.8" cy="1024.3" r="45.3"/>
+      <use width="171.6" height="32.4" transform="translate(408.7 712.4)" xlink:href="#mouth_smile"/>
+    </g>
+    <g id="Formi_Day02">
+      <use width="200.5" height="107" transform="translate(520.4 849.2) rotate(-45)" xlink:href="#arm_curved"/>
+      <use width="228.9" height="229" transform="translate(132.7 209)" xlink:href="#hair_neutral"/>
+      <circle id="circle-4" data-name="circle" class="cls-16" cx="698.4" cy="749.1" r="45.3"/>
+      <use width="508.4" height="707.5" transform="translate(215.3 372.5)" xlink:href="#formi_body"/>
+      <use width="200.5" height="107" transform="translate(228.2 761.9)" xlink:href="#arm_curved"/>
+      <ellipse cx="624.1" cy="476.6" rx="15.2" ry="42.7" transform="translate(6.1 961.1) rotate(-75.5)"/>
+      <ellipse cx="332.7" cy="478.8" rx="42.7" ry="15.2" transform="translate(-107.1 96) rotate(-14.2)"/>
+      <circle class="cls-16" cx="434.8" cy="786.8" r="45.3"/>
+      <use width="91.4" height="50" transform="translate(378.7 677.5)" xlink:href="#mouth_grin"/>
+      <use width="46.7" height="34.8" transform="translate(327 530.4)" xlink:href="#eye_closed"/>
+      <use width="46.7" height="34.8" transform="translate(598.8 524.2) rotate(16.2)" xlink:href="#eye_closed"/>
+      <use width="179.1" height="126.9" transform="translate(412.7 564.7)" xlink:href="#nose"/>
+    </g>
+    <g id="Formi_Day03">
+      <rect x="664.5" y="767.7" width="14" height="248.5"/>
+      <use width="228.9" height="229" transform="translate(106.9 228.9)" xlink:href="#hair_neutral"/>
+      <circle id="circle-5" data-name="circle" class="cls-16" cx="633.6" cy="1017.4" r="45.3"/>
+      <use width="508.4" height="707.5" transform="translate(214.4 372.5)" xlink:href="#formi_body"/>
+      <ellipse cx="414.6" cy="498" rx="23" ry="32.4"/>
+      <ellipse cx="678.8" cy="495.4" rx="23" ry="32.4"/>
+      <ellipse cx="694" cy="367.4" rx="15.2" ry="42.7" transform="translate(164.2 947.1) rotate(-75.5)"/>
+      <ellipse cx="402.7" cy="369.6" rx="42.7" ry="15.2" transform="translate(-78.2 109.8) rotate(-14.2)"/>
+      <rect x="228.3" y="763" width="14" height="248.5"/>
+      <circle class="cls-16" cx="204" cy="1024.3" r="45.3"/>
+      <circle cx="532.1" cy="682.3" r="31.9"/>
+      <use width="1181.3" height="1124.1" transform="translate(750.6 437) rotate(-12.6) scale(0)" xlink:href="#star"/>
+      <use width="179.1" height="126.9" transform="translate(476.8 505.5)" xlink:href="#nose"/>
+    </g>
+    <g id="Formi_Day04">
+      <use width="200.5" height="107" transform="translate(654.6 781.5) rotate(-37.4)" xlink:href="#arm_curved"/>
+      <use width="228.9" height="229" transform="translate(382.8 90.6) rotate(123.1) scale(1 -1)" xlink:href="#hair_neutral"/>
+      <use width="86.5" height="107.6" transform="translate(827.1 633.9)" xlink:href="#hand_thumbsUp"/>
+      <use width="508.4" height="707.5" transform="translate(216 372.5)" xlink:href="#formi_body"/>
+      <ellipse cx="406.9" cy="559.6" rx="23" ry="32.4"/>
+      <ellipse cx="671.2" cy="557" rx="23" ry="32.4"/>
+      <ellipse cx="673.5" cy="442.9" rx="15.2" ry="42.7" transform="translate(75.8 983.8) rotate(-75.5)"/>
+      <ellipse cx="382.2" cy="445.1" rx="42.7" ry="15.2" transform="translate(-97.3 107.1) rotate(-14.2)"/>
+      <rect x="229.9" y="763" width="14" height="248.5"/>
+      <circle class="cls-16" cx="205.6" cy="1024.3" r="45.3"/>
+      <use width="169.1" height="87.1" transform="translate(430.6 686.3)" xlink:href="#mouth_openSmile"/>
+      <use width="179.1" height="126.9" transform="translate(469.1 567)" xlink:href="#nose"/>
+    </g>
+    <g id="Formi_Day05">
+      <use width="200.5" height="107" transform="translate(653 787.8) rotate(-46.6)" xlink:href="#arm_curved"/>
+      <use width="228.9" height="229" transform="translate(123.6 181.2)" xlink:href="#hair_neutral"/>
+      <use width="508.4" height="707.5" transform="translate(215.6 372.5)" xlink:href="#formi_body"/>
+      <ellipse cx="611.9" cy="438.3" rx="15.2" ry="42.7" transform="translate(-56 785.2) rotate(-63.1)"/>
+      <ellipse cx="320.6" cy="440.5" rx="42.7" ry="15.2" transform="translate(-191.9 255.6) rotate(-34.1)"/>
+      <use width="46.7" height="34.8" transform="translate(319.7 520) rotate(-3.8)" xlink:href="#eye_closed"/>
+      <use width="46.7" height="34.8" transform="translate(591.9 508.1) rotate(15.6)" xlink:href="#eye_closed"/>
+      <use width="169.1" height="87.1" transform="translate(400.7 693.7) rotate(-10.9)" xlink:href="#mouth_openSmile"/>
+      <use width="86.5" height="107.6" transform="translate(808.4 595.3) rotate(.8)" xlink:href="#hand_thumbsUp"/>
+      <use width="200.5" height="107" transform="translate(245.4 767.6) rotate(-110.8) scale(1 -1)" xlink:href="#arm_curved"/>
+      <use width="86.5" height="107.6" transform="translate(159 514.1) rotate(-180) scale(1 -1)" xlink:href="#hand_thumbsUp"/>
+      <use width="179.1" height="126.9" transform="translate(406 549.6)" xlink:href="#nose"/>
+    </g>
+    <g id="Formi_Day06">
+      <use width="228.9" height="229" transform="translate(151.9 218.3)" xlink:href="#hair_neutral"/>
+      <rect x="663.5" y="766.1" width="14" height="248.5"/>
+      <circle id="circle-6" data-name="circle" class="cls-16" cx="635.2" cy="1017.4" r="45.3"/>
+      <use width="508.4" height="707.5" transform="translate(216 372.5)" xlink:href="#formi_body"/>
+      <ellipse cx="351.2" cy="539.8" rx="23" ry="32.4"/>
+      <ellipse cx="615.4" cy="537.2" rx="23" ry="32.4"/>
+      <ellipse cx="624.7" cy="459.2" rx="15.2" ry="42.7" transform="translate(23.5 948.7) rotate(-75.5)"/>
+      <ellipse cx="333.4" cy="461.4" rx="42.7" ry="15.2" transform="translate(-102.8 95.6) rotate(-14.2)"/>
+      <use width="171.6" height="32.4" transform="translate(413.6 667.9)" xlink:href="#mouth_smile"/>
+      <use width="200.5" height="107" transform="translate(234.2 768.3) rotate(13.6)" xlink:href="#arm_curved"/>
+      <circle class="cls-16" cx="445.6" cy="869.5" r="45.3"/>
+      <use width="179.1" height="126.9" transform="translate(413.4 547.3)" xlink:href="#nose"/>
+    </g>
+    <g id="Formi_Day07">
+      <rect x="660.6" y="758.4" width="14" height="248.5"/>
+      <use width="228.9" height="229" transform="translate(150.6 171.9)" xlink:href="#hair_neutral"/>
+      <circle id="circle-7" data-name="circle" class="cls-16" cx="633.9" cy="1017.4" r="45.3"/>
+      <use width="508.4" height="707.5" transform="translate(214.7 372.5)" xlink:href="#formi_body"/>
+      <ellipse cx="672.9" cy="416.1" rx="15.2" ry="42.7" transform="translate(185.3 1039.2) rotate(-83.7)"/>
+      <ellipse cx="384.9" cy="460" rx="42.7" ry="15.2" transform="translate(-146.1 181.2) rotate(-22.4)"/>
+      <rect x="228.6" y="763" width="14" height="248.5"/>
+      <circle class="cls-16" cx="204.3" cy="1024.3" r="45.3"/>
+      <use width="46.7" height="34.8" transform="translate(385.3 520.5) rotate(-20.6)" xlink:href="#eye_closed"/>
+      <use width="46.7" height="34.8" transform="translate(658.4 460.6) rotate(14.8)" xlink:href="#eye_closed"/>
+      <polygon class="cls-1" points="657.5 668.6 663 689.5 831.7 698.8 812.4 604.3 657.5 668.6"/>
+      <g>
+        <path class="cls-2" d="M639.7,645.5s23-7.5,30.5,6.7c7.7,14.7-15,26.8-15,26.8,0,0,28,1,22.5,21.2-3,10.7-20.1,18.1-20.1,18.1"/>
+        <path d="M639.7,645.5c8-3.6,17.7-5.4,26-1.3,6.1,3.1,10,10,9,16.9-1.8,9.8-9.8,16.3-17.9,21l-1.5-6.6c3,.2,5.7,.6,8.6,1.4,5.8,1.6,11.8,4.3,15.2,9.8,3.4,5.5,2.5,12.9-.9,18.1-3.3,4.9-8.1,8-13.1,10.5-2.5,1.2-5,2.2-7.6,2.9,4.5-2.9,8.8-6.2,12.3-9.9,4.7-4.6,7.9-12.4,4-18.4-2.5-3.6-7.2-5.4-11.6-6.4-2.3-.5-4.9-1-7.2-1.1-1.9,0-3.4-1.7-3.3-3.7,0-1.3,.8-2.3,1.8-2.9,2.1-1.2,4.5-2.8,6.4-4.4,5.3-4.3,11-10.9,7.7-17.9-4.7-10-18.3-9.3-27.9-8.2h0Z"/>
+      </g>
+      <use width="175" height="259.7" transform="translate(363.6 148.3)" xlink:href="#hat_party"/>
+      <use width="142.9" height="218.5" transform="translate(844.1 507.1) scale(.7)" xlink:href="#note"/>
+      <use width="179.1" height="126.9" transform="translate(478.7 532.1) rotate(-6.4)" xlink:href="#nose"/>
+    </g>
+    <g id="Formi_Day08">
+      <use width="200.5" height="107" transform="translate(659.1 783.8)" xlink:href="#arm_curved"/>
+      <use width="228.9" height="229" transform="translate(65.9 264)" xlink:href="#hair_neutral"/>
+      <use width="508.4" height="707.5" transform="translate(213.5 372.5)" xlink:href="#formi_body"/>
+      <ellipse cx="373.5" cy="511.2" rx="23" ry="32.4"/>
+      <ellipse cx="637.7" cy="508.6" rx="23" ry="32.4"/>
+      <ellipse cx="647.3" cy="390.6" rx="15.2" ry="42.7" transform="translate(-14.6 755.9) rotate(-60)"/>
+      <ellipse cx="349.8" cy="383.1" rx="42.7" ry="15.2" transform="translate(-154.5 261.3) rotate(-34)"/>
+      <rect x="227.5" y="763" width="14" height="248.5"/>
+      <circle class="cls-16" cx="203.1" cy="1024.3" r="45.3"/>
+      <use width="169.1" height="87.1" transform="translate(366.8 662.2) rotate(-9.6) scale(1.4)" xlink:href="#mouth_openSmile"/>
+      <use width="86.5" height="107.6" transform="translate(882.7 757.3) rotate(31.2)" xlink:href="#hand_thumbsUp"/>
+      <use width="179.1" height="126.9" transform="translate(414.8 511.7)" xlink:href="#nose"/>
+    </g>
+    <g id="Formi_Day09">
+      <rect x="658" y="774.6" width="14" height="248.5"/>
+      <use width="228.9" height="229" transform="translate(120.1 243.9) rotate(-16.8)" xlink:href="#hair_neutral"/>
+      <circle id="circle-8" data-name="circle" class="cls-16" cx="631.6" cy="1017.4" r="45.3"/>
+      <use width="508.4" height="707.5" transform="translate(212.4 372.5)" xlink:href="#formi_body"/>
+      <ellipse cx="679.3" cy="480.5" rx="15.2" ry="42.7" transform="translate(43.8 1017.5) rotate(-75.5)"/>
+      <ellipse cx="388" cy="482.7" rx="42.7" ry="15.2" transform="translate(-106.3 109.6) rotate(-14.2)"/>
+      <g id="sunglasses">
+        <path d="M372.1,534h94.4c26,0,47.1,21.1,47.1,47.1v27.2c0,42.4-34.4,76.7-76.7,76.7h-35.2c-42.4,0-76.7-34.4-76.7-76.7v-27.2c0-26,21.1-47.1,47.1-47.1Z"/>
+        <path d="M631.5,534h94.4c26,0,47.1,21.1,47.1,47.1v27.2c0,42.4-34.4,76.7-76.7,76.7h-35.2c-42.4,0-76.7-34.4-76.7-76.7v-27.2c0-26,21.1-47.1,47.1-47.1Z"/>
+        <rect x="508.5" y="574.3" width="90.9" height="15.1"/>
+        <polygon points="329.3 583 227.2 532.2 232.6 518.4 334.7 569.2 329.3 583"/>
+        <path class="cls-19" d="M358.4,541.5s-.9,95.9,20.5,77.8c37.9-32.1,28.6,59.6,28.6,59.6l41.8-.4s11.6-112.3-27.5-82.8-18.6-53-18.6-53l-44.9-1.2Z"/>
+        <path class="cls-19" d="M651.8,539.5s-.4,92.1,37.2,67.7c41.7-27.1,27.4,52.8,25.3,70.6,15.9-3.5,29.3-15.2,29.3-15.2,0,0,6.2-114.6-32.9-85.2s-13.9-36.8-13.9-36.8l-44.9-1.2Z"/>
+      </g>
+      <use width="91.4" height="50" transform="translate(397.7 718.9)" xlink:href="#mouth_grin"/>
+      <use width="200.5" height="107" transform="translate(226 760.6) rotate(18.4)" xlink:href="#arm_curved"/>
+      <use width="86.5" height="107.6" transform="translate(346.5 813) rotate(-27.7)" xlink:href="#hand_thumbsUp"/>
+      <use width="142.9" height="218.5" transform="translate(788.1 369.5) scale(.4)" xlink:href="#note"/>
+      <use width="142.9" height="218.5" transform="translate(711.4 277.8) scale(.4)" xlink:href="#note"/>
+      <use width="179.1" height="126.9" transform="translate(459 623.9)" xlink:href="#nose"/>
+    </g>
+    <g id="Formi_Day10">
+      <use width="200.5" height="107" transform="translate(652.3 714.5) rotate(119.3) scale(1 -1)" xlink:href="#arm_curved"/>
+      <use width="228.9" height="229" transform="translate(339.4 99.1) rotate(30.5)" xlink:href="#hair_neutral"/>
+      <circle id="circle-9" data-name="circle" class="cls-16" cx="642.2" cy="878" r="45.3"/>
+      <use width="508.4" height="707.5" transform="translate(217.1 372.5)" xlink:href="#formi_body"/>
+      <use width="46" height="64.9" transform="translate(352.6 523.6)" xlink:href="#eye_open"/>
+      <ellipse class="cls-9" cx="527.3" cy="627" rx="89.6" ry="63.4"/>
+      <ellipse cx="642.9" cy="429" rx="15.2" ry="42.7" transform="translate(66.4 943.7) rotate(-75.5)"/>
+      <ellipse cx="364" cy="452.1" rx="42.7" ry="15.2" transform="translate(-99.6 102.8) rotate(-14.2)"/>
+      <rect x="231.1" y="763" width="14" height="248.5"/>
+      <circle class="cls-16" cx="206.7" cy="1024.3" r="45.3"/>
+      <use width="46" height="64.9" transform="translate(616.8 521.1)" xlink:href="#eye_open"/>
+      <use width="169.1" height="87.1" transform="translate(387 683.2) scale(1 .7)" xlink:href="#mouth_openSmile"/>
+    </g>
+    <g id="Formi_Day11">
+      <use width="200.5" height="107" transform="translate(597 792) rotate(-45)" xlink:href="#arm_curved"/>
+      <use width="228.9" height="229" transform="translate(225.9 125.1) rotate(19.9)" xlink:href="#hair_neutral"/>
+      <circle id="circle-10" data-name="circle" class="cls-16" cx="775" cy="691.8" r="45.3"/>
+      <use width="508.4" height="707.5" transform="translate(214.5 372.5)" xlink:href="#formi_body"/>
+      <use width="200.5" height="107" transform="translate(229 731) rotate(70.4)" xlink:href="#arm_curved"/>
+      <ellipse class="cls-9" cx="501.5" cy="628.1" rx="89.6" ry="63.4"/>
+      <ellipse cx="623.3" cy="476.6" rx="15.2" ry="42.7" transform="translate(5.5 960.4) rotate(-75.5)"/>
+      <ellipse cx="331.9" cy="478.8" rx="42.7" ry="15.2" transform="translate(-107.1 95.8) rotate(-14.2)"/>
+      <circle class="cls-16" cx="265.3" cy="921.5" r="45.3"/>
+      <use width="46" height="64.9" transform="translate(350.3 519.7)" xlink:href="#eye_open"/>
+      <use width="46" height="64.9" transform="translate(575.6 509.6)" xlink:href="#eye_open"/>
+      <use width="171.6" height="32.4" transform="translate(409.8 685.5)" xlink:href="#mouth_smile"/>
+      <use width="70.4" height="61.6" transform="translate(782.4 466.3) scale(1.4)" xlink:href="#heart"/>
+    </g>
+    <g id="Formi_Day12">
+      <use width="200.5" height="107" transform="translate(805.5 602) rotate(145.8) scale(1 -1)" xlink:href="#arm_curved"/>
+      <use width="228.9" height="229" transform="translate(394.8 75.5) rotate(113.7) scale(1 -1)" xlink:href="#hair_neutral"/>
+      <circle id="circle-11" data-name="circle" class="cls-16" cx="798.6" cy="572.7" r="45.3"/>
+      <use width="508.4" height="707.5" transform="translate(215.8 372.5)" xlink:href="#formi_body"/>
+      <ellipse class="cls-9" cx="567.8" cy="568.9" rx="89.6" ry="63.4"/>
+      <ellipse cx="695.4" cy="367.4" rx="15.2" ry="42.7" transform="translate(165.3 948.4) rotate(-75.5)"/>
+      <ellipse cx="404.1" cy="369.6" rx="42.7" ry="15.2" transform="translate(-78.2 110.1) rotate(-14.2)"/>
+      <use width="200.5" height="107" transform="translate(113.2 528) rotate(39.8)" xlink:href="#arm_curved"/>
+      <circle class="cls-16" cx="118.7" cy="497.9" r="45.3"/>
+      <use width="46.7" height="34.8" transform="translate(391.4 460.9)" xlink:href="#eye_closed"/>
+      <use width="46.7" height="34.8" transform="translate(656.2 458.3)" xlink:href="#eye_closed"/>
+      <use width="91.4" height="50" transform="translate(431.7 619) rotate(-3.8) scale(1.6)" xlink:href="#mouth_grin"/>
+      <use width="142.9" height="218.5" transform="translate(697.8 177.7) scale(.4)" xlink:href="#note"/>
+      <use width="142.9" height="218.5" transform="translate(239.5 247.4) scale(.4)" xlink:href="#note"/>
+    </g>
+    <g id="Formi_Day13">
+      <use width="200.5" height="107" transform="translate(652.6 735.1) rotate(105.6) scale(1 -1)" xlink:href="#arm_curved"/>
+      <circle class="cls-16" cx="658" cy="922.9" r="45.3"/>
+      <use width="228.9" height="229" transform="translate(167.8 170.6) rotate(24.6)" xlink:href="#hair_neutral"/>
+      <use width="508.4" height="707.5" transform="translate(216.3 372.5)" xlink:href="#formi_body"/>
+      <ellipse class="cls-9" cx="559" cy="630.5" rx="89.6" ry="63.4"/>
+      <ellipse cx="673.8" cy="442.9" rx="15.2" ry="42.7" transform="translate(76 984) rotate(-75.5)"/>
+      <ellipse cx="382.5" cy="445.1" rx="42.7" ry="15.2" transform="translate(-97.3 107.1) rotate(-14.2)"/>
+      <use width="169.1" height="87.1" transform="translate(430.9 686.3)" xlink:href="#mouth_openSmile"/>
+      <use width="46.7" height="34.8" transform="translate(382.5 520.8)" xlink:href="#eye_closed"/>
+      <use width="46.7" height="34.8" transform="translate(647.2 518.5)" xlink:href="#eye_closed"/>
+      <use width="200.5" height="107" transform="translate(231.2 761.1) rotate(15)" xlink:href="#arm_curved"/>
+      <use width="86.5" height="107.6" transform="translate(390.4 784)" xlink:href="#hand_thumbsUp"/>
+    </g>
+    <g id="Formi_Day14">
+      <g id="starburst">
+        <rect class="cls-3" x="542.2" y="14.5" width="9.3" height="1060.6" transform="translate(-199.2 346.4) rotate(-30)"/>
+        <rect class="cls-3" x="542.2" y="94.8" width="9.3" height="900" transform="translate(-222.3 479) rotate(-40)"/>
+        <rect class="cls-3" x="542.2" y="14.5" width="9.3" height="1060.6" transform="translate(-222 613.5) rotate(-50)"/>
+        <rect class="cls-3" x="542.2" y="-55.2" width="9.3" height="1200" transform="translate(-198.4 746) rotate(-60)"/>
+        <rect class="cls-3" x="542.2" y="14.5" width="9.3" height="1060.6" transform="translate(-152.2 872.4) rotate(-70)"/>
+        <rect class="cls-3" x="542.2" y="94.8" width="9.3" height="900" transform="translate(-84.7 988.8) rotate(-80)"/>
+        <rect class="cls-3" x="542.2" y="194.8" width="9.3" height="700" transform="translate(-153.4 219.9) rotate(-20)"/>
+        <rect class="cls-3" x="542.2" y="14.5" width="9.3" height="1060.6" transform="translate(-86.3 103.2) rotate(-10)"/>
+        <rect class="cls-3" x="542.2" y="14.5" width="9.3" height="1060.6" transform="translate(748 1290.1) rotate(-150)"/>
+        <rect class="cls-3" x="542.2" y="94.8" width="9.3" height="900" transform="translate(615.5 1313.7) rotate(-140)"/>
+        <rect class="cls-3" x="542.2" y="14.5" width="9.3" height="1060.6" transform="translate(481 1314) rotate(-130)"/>
+        <rect class="cls-3" x="542.2" y="-55.2" width="9.3" height="1200" transform="translate(348.4 1290.8) rotate(-120)"/>
+        <rect class="cls-3" x="542.2" y="14.5" width="9.3" height="1060.6" transform="translate(221.9 1245.1) rotate(-110)"/>
+        <rect class="cls-3" x="542.2" y="94.8" width="9.3" height="900" transform="translate(105.2 1178) rotate(-100)"/>
+        <rect class="cls-3" x="542.2" y="194.8" width="9.3" height="700" transform="translate(874.4 1243.9) rotate(-160)"/>
+        <rect class="cls-3" x="542.2" y="14.5" width="9.3" height="1060.6" transform="translate(990.8 1176.4) rotate(-170)"/>
+        <rect class="cls-3" x="542.2" y="69.8" width="9.3" height="950"/>
+        <rect class="cls-3" x="542.2" y="14.5" width="9.3" height="1060.6" transform="translate(2 1091.7) rotate(-90)"/>
+      </g>
+      <use width="200.5" height="107" transform="translate(723.5 721.2) rotate(4.4)" xlink:href="#arm_curved"/>
+      <use width="228.9" height="229" transform="translate(295.1 154.4) rotate(98.5) scale(1 -1)" xlink:href="#hair_neutral"/>
+      <use width="508.4" height="707.5" transform="translate(326.5 372.5)" xlink:href="#formi_body"/>
+      <ellipse class="cls-9" cx="606.5" cy="613" rx="89.6" ry="63.4"/>
+      <ellipse cx="722.9" cy="438.3" rx="15.2" ry="42.7" transform="translate(4.6 884.1) rotate(-63.1)"/>
+      <ellipse cx="431.5" cy="440.5" rx="42.7" ry="15.2" transform="translate(-172.8 317.8) rotate(-34.1)"/>
+      <use width="46.7" height="34.8" transform="translate(430.6 520) rotate(-3.8)" xlink:href="#eye_closed"/>
+      <use width="46.7" height="34.8" transform="translate(702.8 508.1) rotate(15.6)" xlink:href="#eye_closed"/>
+      <use width="169.1" height="87.1" transform="translate(441.7 663.6) rotate(-4.4) scale(1 1.4)" xlink:href="#mouth_openSmile"/>
+      <use width="86.5" height="107.6" transform="translate(920.6 692.2) rotate(20.5)" xlink:href="#hand_thumbsUp"/>
+      <use width="200.5" height="107" transform="translate(340.1 710.7) rotate(-110.8) scale(1 -1)" xlink:href="#arm_curved"/>
+      <use width="86.5" height="107.6" transform="translate(253.7 457.2) rotate(-180) scale(1 -1)" xlink:href="#hand_thumbsUp"/>
+      <use width="175" height="259.7" transform="translate(480 148.6)" xlink:href="#hat_party"/>
+    </g>
+    <g id="Formi_Day15">
+      <use width="200.5" height="107" transform="translate(704.9 792) rotate(-180) scale(1 -1)" xlink:href="#arm_curved"/>
+      <use width="228.9" height="229" transform="translate(395.4 124.6) rotate(38.4)" xlink:href="#hair_neutral"/>
+      <circle id="circle-12" data-name="circle" class="cls-16" cx="680.1" cy="787" r="45.3"/>
+      <use width="508.4" height="707.5" transform="translate(215.6 372.5)" xlink:href="#formi_body"/>
+      <ellipse class="cls-9" cx="504.6" cy="571" rx="89.6" ry="63.4"/>
+      <ellipse cx="624.3" cy="388.6" rx="15.2" ry="42.7" transform="translate(-62.4 651.7) rotate(-52.9)"/>
+      <ellipse cx="317.9" cy="389.6" rx="42.7" ry="15.2" transform="translate(-178.2 307.6) rotate(-41.4)"/>
+      <use width="200.5" height="107" transform="translate(245.8 777.4) rotate(.5)" xlink:href="#arm_curved"/>
+      <circle class="cls-16" cx="474.6" cy="827.7" r="45.3"/>
+      <use width="46.7" height="34.8" transform="translate(327.7 470.3)" xlink:href="#eye_closed"/>
+      <use width="46.7" height="34.8" transform="translate(592.5 468.2)" xlink:href="#eye_closed"/>
+      <use width="169.1" height="87.1" transform="translate(372.8 624.1) scale(1.2 1.3)" xlink:href="#mouth_openSmile"/>
+      <use width="1181.3" height="1124.1" transform="translate(724.8 386.9) rotate(19) scale(0)" xlink:href="#star"/>
+      <use width="1181.3" height="1124.1" transform="translate(589.4 249.1) rotate(-12.3) scale(.1)" xlink:href="#star"/>
+      <use width="1181.3" height="1124.1" transform="translate(209.6 172.6) rotate(13.7) scale(0)" xlink:href="#star"/>
+      <use width="1181.3" height="1124.1" transform="translate(36.3 445.2) rotate(-28.9) scale(.1)" xlink:href="#star"/>
+    </g>
+    <g id="Formi_Day16">
+      <use width="200.5" height="107" transform="translate(730.4 718.1) rotate(97.2) scale(1 -1)" xlink:href="#arm_curved"/>
+      <use width="228.9" height="229" transform="translate(269.2 171.9)" xlink:href="#hair_neutral"/>
+      <circle id="circle-13" data-name="circle" class="cls-16" cx="772.2" cy="896.6" r="45.3"/>
+      <use width="508.4" height="707.5" transform="translate(333.3 372.5)" xlink:href="#formi_body"/>
+      <ellipse class="cls-9" cx="692.6" cy="583.5" rx="89.6" ry="63.4" transform="translate(-76.3 105) rotate(-8.2)"/>
+      <ellipse cx="791.5" cy="416.1" rx="15.2" ry="42.7" transform="translate(290.8 1157.1) rotate(-83.7)"/>
+      <ellipse cx="503.5" cy="460" rx="42.7" ry="15.2" transform="translate(-137.2 226.4) rotate(-22.4)"/>
+      <path class="cls-18" d="M10.1,871.9s62.7,9.3,145.5-44.9c82.8-54.2,159.5-116.1,159.5-116.1,0,0,5.8-40.8,21.3-40.6,43,.4,149.8,99,274.5,95.6,114.6-3.1,185.8-27.1,185.8-27.1,0,0,18.6,18.6-2.3,25.5-20.9,7-215.7,50.8-315.9,5.4-60.6-27.5-126.7-69.4-135.8-66.8s-9.7,18.3-9.7,18.3v82.2c-.1,0,4.9,48,14.2,61.5s51.6,74.7,51.6,74.7c0,0,9.7,8.3,13,10.7,3.3,2.4,11.9,8.6,11.9,8.6,0,0-23.8,77.4-50.1,95.6-26.3,18.2-48,24.8-48,24.8,0,0,29.4-40.6,8.9-53.8-20.5-13.2-93.3,16.6-126.6-10.5-33.3-27.1-51.5-82.8-86.1-79.2-49.9,5.2-81.2-8.3-111.7-64Z"/>
+      <use width="200.5" height="107" transform="translate(344.9 702.2) rotate(73.5)" xlink:href="#arm_curved"/>
+      <circle class="cls-16" cx="372.9" cy="902.5" r="45.3"/>
+      <use width="91.4" height="50" transform="translate(533.9 631.5)" xlink:href="#mouth_grin"/>
+      <use width="46" height="64.9" transform="translate(514.1 493.6)" xlink:href="#eye_open"/>
+      <use width="46" height="64.9" transform="translate(765.3 454.2) rotate(-9.6)" xlink:href="#eye_open"/>
+    </g>
+    <g id="Formi_Day17">
+      <use width="200.5" height="107" transform="translate(585 885.5) rotate(-88.9)" xlink:href="#arm_curved"/>
+      <use width="228.9" height="229" transform="translate(503.8 122.6) rotate(136) scale(1 -1)" xlink:href="#hair_neutral"/>
+      <use width="508.4" height="707.5" transform="translate(218.5 372.5)" xlink:href="#formi_body"/>
+      <ellipse class="cls-9" cx="509.3" cy="575.1" rx="89.6" ry="63.4"/>
+      <ellipse cx="652.2" cy="390.6" rx="15.2" ry="42.7" transform="translate(-12.2 760.2) rotate(-60)"/>
+      <ellipse cx="354.8" cy="383.1" rx="42.7" ry="15.2" transform="translate(-153.6 264.1) rotate(-34)"/>
+      <use width="169.1" height="87.1" transform="translate(368.9 635.4) rotate(-2.4) scale(1.1 1.4)" xlink:href="#mouth_openSmile"/>
+      <use width="70.4" height="61.6" transform="translate(593.5 461.6) rotate(11.1)" xlink:href="#eye_heart"/>
+      <use width="70.4" height="61.6" transform="translate(349 471.8) rotate(-11.9)" xlink:href="#eye_heart"/>
+      <use width="200.5" height="107" transform="translate(231.1 760.5) rotate(-11.3)" xlink:href="#arm_curved"/>
+      <circle class="cls-16" cx="441.1" cy="773.5" r="45.3"/>
+      <circle class="cls-16" cx="659.4" cy="758.8" r="45.3"/>
+      <use width="70.4" height="61.6" transform="translate(233.5 269.2) rotate(-20.1)" xlink:href="#heart"/>
+      <use width="70.4" height="61.6" transform="translate(690.2 217.7) rotate(13.8) scale(1.7)" xlink:href="#heart"/>
+    </g>
+    <g id="Formi_Day18">
+      <use width="200.5" height="107" transform="translate(640.1 708.6) rotate(117.9) scale(1 -1)" xlink:href="#arm_curved"/>
+      <use width="228.9" height="229" transform="translate(323.6 94.6) rotate(27.1)" xlink:href="#hair_neutral"/>
+      <circle id="circle-14" data-name="circle" class="cls-16" cx="646.4" cy="891.9" r="45.3"/>
+      <use width="508.4" height="707.5" transform="translate(215.6 372.5)" xlink:href="#formi_body"/>
+      <ellipse cx="335.5" cy="516.8" rx="23" ry="32.4" transform="translate(-43.8 31.3) rotate(-5)"/>
+      <ellipse cx="598.5" cy="491.2" rx="23" ry="32.4" transform="translate(-40.6 54.1) rotate(-5)"/>
+      <ellipse cx="606.3" cy="351.9" rx="15.2" ry="42.7" transform="translate(158.9 891.6) rotate(-80.5)"/>
+      <ellipse cx="316.2" cy="379.5" rx="42.7" ry="15.2" transform="translate(-107.1 124.9) rotate(-19.2)"/>
+      <ellipse class="cls-9" cx="499.1" cy="583.6" rx="89.6" ry="63.4"/>
+      <use width="91.4" height="50" transform="translate(383.9 631.5)" xlink:href="#mouth_grin"/>
+      <use width="200.5" height="107" transform="translate(229.2 760.6) rotate(18.4)" xlink:href="#arm_curved"/>
+      <use width="86.5" height="107.6" transform="translate(446.7 791.9) rotate(50.8)" xlink:href="#hand_thumbsUp"/>
+      <use width="1181.3" height="1124.1" transform="translate(776.2 406.9) rotate(21.6) scale(0)" xlink:href="#star"/>
+    </g>
+    <g id="Formi_DayReset">
+      <rect x="655.6" y="752.8" width="14" height="248.5"/>
+      <use width="228.9" height="229" transform="translate(159.1 255.5) rotate(-13.9)" xlink:href="#hair_neutral"/>
+      <use width="508.4" height="707.5" transform="translate(217.1 372.5)" xlink:href="#formi_body"/>
+      <ellipse cx="358.2" cy="545.8" rx="32.4" ry="23" transform="translate(-191.6 897.8) rotate(-89.4)"/>
+      <ellipse cx="622.5" cy="546.2" rx="32.4" ry="23" transform="translate(69.3 1162.5) rotate(-89.4)"/>
+      <ellipse cx="640.8" cy="488.8" rx="15.2" ry="42.7" transform="translate(-140.4 687) rotate(-51.6)"/>
+      <ellipse cx="342.2" cy="485.6" rx="42.7" ry="15.2" transform="translate(-212.9 274) rotate(-34)"/>
+      <ellipse class="cls-9" cx="513" cy="612.3" rx="89.6" ry="63.4"/>
+      <use width="91.4" height="50" transform="translate(450.7 686.5) rotate(-27.1)" xlink:href="#mouth_grin"/>
+      <rect x="228.2" y="769.1" width="14" height="248.5"/>
+      <circle id="circle-15" data-name="circle" class="cls-16" cx="649.8" cy="990.9" r="45.3"/>
+      <circle id="circle-16" data-name="circle" class="cls-16" cx="217.8" cy="997.9" r="45.3"/>
+    </g>
+  </g>
+</svg>
