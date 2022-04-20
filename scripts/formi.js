@@ -73,7 +73,7 @@ function DayChange(add){
 }
 
 var affirmations = [
-"Hi, I'm Formi!",
+"Hi, my name's formy. Welcome to BMT4Me!",
 "It's good to see you again!",
 "You're doing great!",
 "Keep up the good work!",
